@@ -2,6 +2,14 @@
 
 I'm Felipe! I'm a Full Stack Web Developer who is passionate about designing and creating Apps and websites that are user-friendly, accessible and scalable. My experience spans a diverse range from designing restaurant menus and social media pages to creating and refining training materials and reference pages in the insurance industry.
 
+#### Relevant Skills:
+
+*Frontend:* React.js, Redux, Hooks, Context API, Jest, Cypress, Axios, JavaScript, JSON, Rails, HTML, CSS, Ant Design, MaterialUI, Bootstrap
+
+*Backend:* Node.js, Express, Ruby, SQL, PostgreSQL, Docker, Python, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
+
+*Additional Skills:* Agile Project Management, Algorithms, Architecture, Debugging, Deployment
+
 #### Here is What I'm Working On! 
 
 
